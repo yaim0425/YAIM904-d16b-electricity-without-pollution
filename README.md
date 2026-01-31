@@ -1,5 +1,7 @@
 # YAIM904 d16b – Electricity without Pollution 🌱⚡
 
+---
+
 ## 📦 Description
 
 **YAIM904 d16b – Electricity without Pollution** removes **pollution generation from all entities that use electricity**.
@@ -45,7 +47,7 @@ Only pollution behavior is modified; normal gameplay flow remains intact.
 
 ## ❤️ Support
 
-Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas and balance feedback are welcome on the GitHub repository.
 
 ---
 

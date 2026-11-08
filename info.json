@@ -1,12 +1,12 @@
 {
     "name":  "YAIM904-d16b-electricity-without-pollution",
-    "version":  "0.0.2",
+    "version":  "1.0.0",
     "title":  "YAIM904 d16b Electricity without pollution",
     "author":  "YAIM904",
-    "factorio_version":  "2.1",
+    "factorio_version":  "2.0",
     "description":  "Eliminates pollution emanation for all entities using electricity. [[I accept suggestions]]",
     "homepage":  "https://github.com/yaim0425/YAIM904-d16b-electricity-without-pollution",
     "dependencies":  [
-        "YAIM904-d00b-core"
+        "YAIM904-d00b-core >= 1.0.0"
     ]
 }
